@@ -1,1 +1,1 @@
-# Elements-of-Artificial-Intelligence
+Abstraction Methods in AI
